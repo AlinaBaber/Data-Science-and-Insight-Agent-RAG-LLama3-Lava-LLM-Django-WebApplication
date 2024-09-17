@@ -14,6 +14,14 @@
 - **REST APIs**: Supports integration via APIs for accessing insights programmatically.
 ## Demostration
 
+
+https://github.com/user-attachments/assets/6aa49596-2bab-4067-91da-731e0395b983
+
+
+
+https://github.com/user-attachments/assets/5c111eb8-9c75-475f-9fac-b4e7d8ae0abf
+
+
 ## Limitations
 
 - **Data Complexity**: May require additional customization for extremely complex or unstructured data.
