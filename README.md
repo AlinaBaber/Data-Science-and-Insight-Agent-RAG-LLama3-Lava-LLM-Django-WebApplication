@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Data-Science-and-Insigth-Agent-RAG-LLama3-Lava-LLM-Django-WebApplication** is an advanced AI-driven chatbot designed to assist in data science, document analysis, and image interpretation. It leverages powerful technologies, including **Llama 2** and **Lava** LLMs, to provide automated insights and answer queries across various domains. The tool supports data processing, document querying, and image analysis, helping users make data-driven decisions efficiently.
+**Data-Science-and-Insigth-Agent-RAG-LLama3-Lava-LLM-Django-WebApplication** is an advanced AI-driven chatbot designed to assist in data science, document analysis, and image interpretation. It leverages powerful technologies, including **Llama 2** and **Lava** LLMs, to provide automated insights and answer queries across various domains. The tool supports data processing, document querying, and image analysis, helping users make data-driven decisions efficiently.This repository contain the Django based Web Application of this project
 
 ## Features
 
